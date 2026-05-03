@@ -118,7 +118,7 @@ Provides:
         ┌────────────────┼────────────────┐
         │                │                │
         ┌────────────┐ ┌──────────────┐ ┌──────────────┐
-        │ Client A │ │ Service B │ │ Trust Graph │
+        │ Client A   │ │ Service B    │ │ Trust Graph  │
         └────┬───────┘ └────┬─────────┘ └────┬─────────┘
              │              │                │
              └────Handshake─┴──────→ Trust Contract
