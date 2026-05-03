@@ -224,6 +224,7 @@ AMTH introduces:
 ---
 
 ## 📂 Project Structure
+```
 amth/
 ├── docs/
 │ ├── whitepaper.md
@@ -237,7 +238,7 @@ amth/
 ├── examples/
 │ ├── api-flow/
 ├── README.md
-
+```
 
 ---
 
